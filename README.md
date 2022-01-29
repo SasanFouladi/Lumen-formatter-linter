@@ -185,6 +185,7 @@ PHP CodeSniffer uses a configuration file. create a file named `phpcs.xml` and c
     <exclude-pattern>*/.phpstorm.meta.php</exclude-pattern>
     <exclude-pattern>*/_ide_helper.php</exclude-pattern>
     <exclude-pattern>*/database/*</exclude-pattern>
+    <exclude-pattern>/bootstrap/*</exclude-pattern>
     <exclude-pattern>*/cache/*</exclude-pattern>
     <exclude-pattern>*/*.js</exclude-pattern>
     <exclude-pattern>*/*.css</exclude-pattern>
